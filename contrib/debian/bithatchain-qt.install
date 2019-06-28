@@ -1,0 +1,6 @@
+usr/local/bin/bithatchain-qt usr/bin
+share/pixmaps/bithatchain32.xpm usr/share/pixmaps
+share/pixmaps/bithatchain16.xpm usr/share/pixmaps
+share/pixmaps/bithatchain128.png usr/share/pixmaps
+debian/bithatchain-qt.desktop usr/share/applications
+debian/bithatchain-qt.protocol usr/share/kde4/services/

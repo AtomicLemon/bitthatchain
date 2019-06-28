@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=bithatchain Core
+Comment=bithatchain P2P Cryptocurrency
+Comment[de]=Verbinde mit dem bithatchain peer-to-peer Netzwerk
+Comment[fr]=bithatchain, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=bithatchain, eşten eşe kriptografik sanal para birimi
+Exec=bithatchain-qt %u
+Terminal=false
+Type=Application
+Icon=bithatchain128
+MimeType=x-scheme-handler/bithatchain;
+Categories=Office;Finance;

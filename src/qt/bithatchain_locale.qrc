@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bithatchain_bg.qm</file>
+        <file alias="de">locale/bithatchain_de.qm</file>
+        <file alias="en">locale/bithatchain_en.qm</file>
+        <file alias="es">locale/bithatchain_es.qm</file>
+        <file alias="fi">locale/bithatchain_fi.qm</file>
+        <file alias="fr">locale/bithatchain_fr.qm</file>
+        <file alias="it">locale/bithatchain_it.qm</file>
+        <file alias="ja">locale/bithatchain_ja.qm</file>
+        <file alias="nl">locale/bithatchain_nl.qm</file>
+        <file alias="pl">locale/bithatchain_pl.qm</file>
+        <file alias="pt">locale/bithatchain_pt.qm</file>
+        <file alias="ru">locale/bithatchain_ru.qm</file>
+        <file alias="sk">locale/bithatchain_sk.qm</file>
+        <file alias="sv">locale/bithatchain_sv.qm</file>
+        <file alias="vi">locale/bithatchain_vi.qm</file>
+        <file alias="zh_CN">locale/bithatchain_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bithatchain_zh_TW.qm</file>
+    </qresource>
+</RCC>
